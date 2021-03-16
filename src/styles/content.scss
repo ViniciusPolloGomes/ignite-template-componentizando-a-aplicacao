@@ -1,7 +1,10 @@
 .container {
+  display: felx;
+  flex-direction: column;
+
   max-width: 52.5rem;
   width: 100%;
-
+  
   margin: 0 auto;
 }
 

@@ -8,8 +8,6 @@ import { Content } from './components/Content';
 import { useEffect, useState } from 'react';
 import { api } from './services/api';
 
-// import { SideBar } from './components/SideBar';
-// import { Content } from './components/Content';
 
 interface GenreResponseProps {
   id: number;
